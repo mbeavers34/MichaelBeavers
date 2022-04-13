@@ -7,7 +7,7 @@ I'm currently working on the
 
 [Prompt project.](/prompt.ipynb)
 The goal of this project is to use what I know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.<p>
-<b><span>&#8226;</span> Section 1:</b> The null hypothosis "There will be no difference in coupon acceptance between drivers over 25 who go to a bar more than once a month and all drivers over 25" is rejected.<p>
+  <b><span>&#8226;</span> Section 1:</b> The null hypothosis "There will be no difference in coupon acceptance between drivers over 25 who go to a bar more than once a month and all drivers over 25" is rejected.<p>
   Ttest_indResult(statistic=-6.534880112360552, pvalue=7.657885459445587e-11)<br>
   For the age group >26 <36 , 789 rejected the coupon and 279 accepted for 0.2612359550561798 acceptance rate<br>
   For the age group >21 <31 , 917 rejected the coupon and 571 accepted for 0.38373655913978494 acceptance rate<p>
