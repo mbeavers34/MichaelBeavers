@@ -3,7 +3,7 @@ Hi, I'm Michael Beavers.
 My background is in Industrial Automation and Controls, with some various programming thrown in for good measure.
 I'm currently the Department Chair of the Technology,  Lake Land College in Mattoon, Il. 
 
-Prompt project.
+[Prompt project.](/prompt.ipynb)
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.<p>
 <b><span>&#8226;</span> Section 1:</b> The null hypothosis "There will be no difference in coupon acceptance between drivers over 25 who go to a bar more than once a month and all drivers over 25" is rejected.<p>
 Ttest_indResult(statistic=-6.534880112360552, pvalue=7.657885459445587e-11)<br>
