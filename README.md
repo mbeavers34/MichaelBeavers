@@ -3,7 +3,7 @@ Hi, I'm Michael Beavers.
 My background is in Industrial Automation and Controls, with some various programming thrown in for good measure.
 I'm currently the Department Chair of the Technology,  Lake Land College in Mattoon, Il.<br>
 
-I'm currently working on the
+I'm currently working on the:
 
 [Prompt project.](/prompt.ipynb)
 The goal of this project is to use what I know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.<p>
